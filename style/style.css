@@ -95,3 +95,19 @@ header::after{
     font-weight: 300;
     margin-top: 20px;
 }
+.content input{
+    display: inline-flex;
+    margin-top:1.4rem;
+    height: 3rem;
+    width: 454px;
+    font-size: 26px;
+}
+.content .btn.btn-lg{
+    display: inline-flex;
+    text-align: center;
+    height: 3rem;
+    font-size: 26px;
+    font-stretch: 100%;
+    width: 14rem;
+    align-items: center;
+}
